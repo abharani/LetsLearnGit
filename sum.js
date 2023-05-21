@@ -5,4 +5,4 @@ const sum = (a,b) => {
     a+b
   )
 }
-console.log(sum(2,5))
+console.log("the sum is"+sum(2,5))
